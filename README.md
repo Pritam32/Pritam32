@@ -20,8 +20,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam32" alt="pritam32" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam32&" alt="pritam32" /></p>
+
 - 📫 How to reach me **pritamjad@gmail.com**
 
 - ⚡ Fun fact **There are around 700 separate programming languages**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam32&" alt="pritam32" /></p>
