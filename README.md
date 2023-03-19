@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Pritam Kumar </h1>
 <h3>A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="coding" width="220px" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
+<img align="right" alt="coding" width="210px" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam32&label=Profile%20views&color=0e75b6&style=flat" alt="pritam32" /> </p>
 
 <h3 align="left">Connect with me:</h3>
