@@ -18,8 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam32&show_icons=true&locale=en&layout=compact" alt="pritam32" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam32&show_icons=true&locale=en" alt="pritam32" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam32&show_icons=true&locale=en" alt="pritam32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam32&" alt="pritam32" /></p>
 
