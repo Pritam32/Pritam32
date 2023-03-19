@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam32&theme=radical" alt="pritam32" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam32&show_icons=true&locale=en&layout=compact&theme=radical" alt="pritam32" /></p><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam32&show_icons=true&locale=en&layout=compact&theme=radical" alt="pritam32" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam32&theme=radical" alt="pritam32" /></a> </p>
 
 - 📫 How to reach me **pritamjad@gmail.com**
