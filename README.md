@@ -1,3 +1,4 @@
+<img src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg" width="1200" height="400">
 <h1>Hi 👋, I'm Pritam Kumar </h1>
 <h3>A passionate Full-Stack developer from India</h3>
 
