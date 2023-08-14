@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <h2></h1># 💫 About Me:</h2><br>
 
-🔭 I’m currently pursuing B. Tech Computer Science<br>🤝 I’m looking for help with upcoming projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Web development  and App development <br>⚡ Fun fact : There are total 400 programming languages in the world.
+🔭 I’m currently pursuing B. Tech Computer Science<br>🤝 I’m looking for help with upcoming projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Web development  and App development <br>
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
