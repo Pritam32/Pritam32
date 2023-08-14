@@ -1,8 +1,12 @@
-<img src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg" width="1200" height="400">
+
 <h1>Hi 👋, I'm Pritam Kumar </h1>
 <h3>A passionate Full-Stack developer from India</h3>
+<h2></h1># 💫 About Me:</h2><br>
 
-<img align="center" alt="coding" width="400px" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
+🔭 I’m currently pursuing B. Tech Computer Science<br>🤝 I’m looking for help with upcoming projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Web development  and App development <br>⚡ Fun fact : There are 400 programming languages in the tech world,
+
+
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
@@ -13,9 +17,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Pritam32&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pritam32&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam32&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=Pritam32&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pritam32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
