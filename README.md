@@ -1,7 +1,6 @@
 
 <h1>Hi 👋, I'm Pritam Kumar Maity </h1>
-<img src="https://github.com/Pritam32/Pritam32/assets/95869177/7d6e7ded-2ad3-4ef8-9625-a903cdf2d6ba"  width="400px">
-<h3>A passionate and a highly motivated Full-Stack Web and App developer from India</h3>
+<img src="https://github.com/Pritam32/Pritam32/assets/95869177/a8264e5d-7a1b-476e-87ac-223e86a9db87">
 <img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <h2></h1># 💫 About Me:</h2><br>
 
