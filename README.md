@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Pritam32/Pritam32/blob/main/banner_github.png">
 <h1>Hi 👋, I'm Pritam Kumar Maity </h1>
-<img align="right" alt="coding" width="400px" src="https://github.com/Pritam32/Pritam32/assets/95869177/d95541a3-b690-4b72-8ba7-108c882ca999">
+<img align="right" alt="coding" width="400px" src="https://github.com/Pritam32/Pritam32/blob/main/coder.gif">
 <h2></h1># 💫 About Me:</h2><br>
 
 🔭 I’m currently pursuing B. Tech Computer Science<br>🤝 I’m looking for help with upcoming projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Web development  and App development <br>
