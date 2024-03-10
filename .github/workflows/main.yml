@@ -17,7 +17,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -29,7 +29,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: pritam32
+          github_user_name: Pritam32
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -42,7 +42,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
