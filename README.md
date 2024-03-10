@@ -21,7 +21,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/Pritam32/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Pritam32/Pritam32/blob/output/github-contribution-grid-snake.gif)
 
 
 
