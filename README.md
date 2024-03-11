@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Pritam32/Pritam32/blob/main/banner_github.png">
+<img src="https://github.com/Pritam32/Pritam32/blob/main/banner.png">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=E8ECF7&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritam+Kumar+Maity;Hi+%F0%9F%91%8B%2C+I'm+a+Full+Stack+Developer;Hi+%F0%9F%91%8B%2C+I'm+a+Part+Time+Freelancer" alt="Typing SVG" /></a>
 <img align="right" alt="coding" width="400px" src="https://github.com/Pritam32/Pritam32/blob/main/coder.gif">
 <h2></h1># 💫 About Me:</h2><br>
