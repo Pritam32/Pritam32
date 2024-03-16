@@ -1,5 +1,5 @@
 
-<img src="">
+<img src="https://github.com/Pritam32/Pritam32/blob/main/banner.png">
 <h1>Hi 👋 I'm Pritam Kumar Maity</h1>
 <img align="right" alt="coding" width="400px" src="https://github.com/Pritam32/Pritam32/blob/main/coder.gif">
 <h2># 💫 About Me:</h2><br>
