@@ -23,5 +23,5 @@
 ### 🐍 Watch my contributions graph get eaten by snake
 ![snake gif](https://github.com/Pritam32/Pritam32/blob/output/github-contribution-grid-snake-dark.svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EF7E3&random=false&width=435&lines=Thanks+for+visiting++%F0%9F%92%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71a4f5&random=false&width=435&lines=Thanks+for+visiting++%F0%9F%92%95" alt="Typing SVG" /></a>
 
